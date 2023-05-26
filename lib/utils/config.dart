@@ -1,0 +1,4 @@
+class ApiConfig {
+  static const String token =
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlrZXkiOiJmZjlhYWNkYy01MmNiLTRiNDEtYjA5MS1lZDI3OWUyYzM0M2UiLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19qb2luIl0sImlhdCI6MTY4NTA5NDY2MCwiZXhwIjoxNjg1Njk5NDYwfQ.KYt3CzpZh7uBkKrQSr9vTml5bKsZKW9sqSshVeredoI";
+}
